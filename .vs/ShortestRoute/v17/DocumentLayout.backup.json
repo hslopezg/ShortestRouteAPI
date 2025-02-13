@@ -1,0 +1,142 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Humberto\\source\\repos\\ShortestRoute\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{993A36F5-4D98-4481-8BD2-7F2E090721C5}|ShortestRoute.Application\\ShortestRoute.Application.csproj|c:\\users\\humberto\\source\\repos\\shortestroute\\shortestroute.application\\services\\routeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{993A36F5-4D98-4481-8BD2-7F2E090721C5}|ShortestRoute.Application\\ShortestRoute.Application.csproj|solutionrelative:shortestroute.application\\services\\routeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D590D920-6F11-42AC-96F4-1A41DC85BDA8}|ShortestRoute\\ShortestRoute.csproj|c:\\users\\humberto\\source\\repos\\shortestroute\\shortestroute\\controllers\\routecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D590D920-6F11-42AC-96F4-1A41DC85BDA8}|ShortestRoute\\ShortestRoute.csproj|solutionrelative:shortestroute\\controllers\\routecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9260CEE-4289-48B5-8DA1-B41C8E6405C8}|ShortestRoute.Shared\\ShortestRoute.Shared.csproj|c:\\users\\humberto\\source\\repos\\shortestroute\\shortestroute.shared\\dto\\routeresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D9260CEE-4289-48B5-8DA1-B41C8E6405C8}|ShortestRoute.Shared\\ShortestRoute.Shared.csproj|solutionrelative:shortestroute.shared\\dto\\routeresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D590D920-6F11-42AC-96F4-1A41DC85BDA8}|ShortestRoute\\ShortestRoute.csproj|c:\\users\\humberto\\source\\repos\\shortestroute\\shortestroute\\utils\\automapper\\automapperprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D590D920-6F11-42AC-96F4-1A41DC85BDA8}|ShortestRoute\\ShortestRoute.csproj|solutionrelative:shortestroute\\utils\\automapper\\automapperprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{827EC2C4-40AD-4859-84E1-5D1269E43DBD}|ShortestRoute.Domain\\ShortestRoute.Domain.csproj|c:\\users\\humberto\\source\\repos\\shortestroute\\shortestroute.domain\\entities\\ruta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{827EC2C4-40AD-4859-84E1-5D1269E43DBD}|ShortestRoute.Domain\\ShortestRoute.Domain.csproj|solutionrelative:shortestroute.domain\\entities\\ruta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9260CEE-4289-48B5-8DA1-B41C8E6405C8}|ShortestRoute.Shared\\ShortestRoute.Shared.csproj|c:\\users\\humberto\\source\\repos\\shortestroute\\shortestroute.shared\\dto\\routerequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D9260CEE-4289-48B5-8DA1-B41C8E6405C8}|ShortestRoute.Shared\\ShortestRoute.Shared.csproj|solutionrelative:shortestroute.shared\\dto\\routerequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{827EC2C4-40AD-4859-84E1-5D1269E43DBD}|ShortestRoute.Domain\\ShortestRoute.Domain.csproj|c:\\users\\humberto\\source\\repos\\shortestroute\\shortestroute.domain\\interfaces\\irouteservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{827EC2C4-40AD-4859-84E1-5D1269E43DBD}|ShortestRoute.Domain\\ShortestRoute.Domain.csproj|solutionrelative:shortestroute.domain\\interfaces\\irouteservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 331,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Ruta.cs",
+              "DocumentMoniker": "C:\\Users\\Humberto\\source\\repos\\ShortestRoute\\ShortestRoute.Domain\\Entities\\Ruta.cs",
+              "RelativeDocumentMoniker": "ShortestRoute.Domain\\Entities\\Ruta.cs",
+              "ToolTip": "C:\\Users\\Humberto\\source\\repos\\ShortestRoute\\ShortestRoute.Domain\\Entities\\Ruta.cs",
+              "RelativeToolTip": "ShortestRoute.Domain\\Entities\\Ruta.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-08T08:22:15.831Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "RouteController.cs",
+              "DocumentMoniker": "C:\\Users\\Humberto\\source\\repos\\ShortestRoute\\ShortestRoute\\Controllers\\RouteController.cs",
+              "RelativeDocumentMoniker": "ShortestRoute\\Controllers\\RouteController.cs",
+              "ToolTip": "C:\\Users\\Humberto\\source\\repos\\ShortestRoute\\ShortestRoute\\Controllers\\RouteController.cs",
+              "RelativeToolTip": "ShortestRoute\\Controllers\\RouteController.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAQwCAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-08T07:09:55.949Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "RouteService.cs",
+              "DocumentMoniker": "C:\\Users\\Humberto\\source\\repos\\ShortestRoute\\ShortestRoute.Application\\Services\\RouteService.cs",
+              "RelativeDocumentMoniker": "ShortestRoute.Application\\Services\\RouteService.cs",
+              "ToolTip": "C:\\Users\\Humberto\\source\\repos\\ShortestRoute\\ShortestRoute.Application\\Services\\RouteService.cs",
+              "RelativeToolTip": "ShortestRoute.Application\\Services\\RouteService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwBEAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-08T00:49:41.648Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AutoMapperProfile.cs",
+              "DocumentMoniker": "C:\\Users\\Humberto\\source\\repos\\ShortestRoute\\ShortestRoute\\Utils\\Automapper\\AutoMapperProfile.cs",
+              "RelativeDocumentMoniker": "ShortestRoute\\Utils\\Automapper\\AutoMapperProfile.cs",
+              "ToolTip": "C:\\Users\\Humberto\\source\\repos\\ShortestRoute\\ShortestRoute\\Utils\\Automapper\\AutoMapperProfile.cs",
+              "RelativeToolTip": "ShortestRoute\\Utils\\Automapper\\AutoMapperProfile.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-08T08:17:39.334Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "RouteResponseDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Humberto\\source\\repos\\ShortestRoute\\ShortestRoute.Shared\\DTO\\RouteResponseDTO.cs",
+              "RelativeDocumentMoniker": "ShortestRoute.Shared\\DTO\\RouteResponseDTO.cs",
+              "ToolTip": "C:\\Users\\Humberto\\source\\repos\\ShortestRoute\\ShortestRoute.Shared\\DTO\\RouteResponseDTO.cs",
+              "RelativeToolTip": "ShortestRoute.Shared\\DTO\\RouteResponseDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-08T07:25:00.684Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "RouteRequestDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Humberto\\source\\repos\\ShortestRoute\\ShortestRoute.Shared\\DTO\\RouteRequestDTO.cs",
+              "RelativeDocumentMoniker": "ShortestRoute.Shared\\DTO\\RouteRequestDTO.cs",
+              "ToolTip": "C:\\Users\\Humberto\\source\\repos\\ShortestRoute\\ShortestRoute.Shared\\DTO\\RouteRequestDTO.cs",
+              "RelativeToolTip": "ShortestRoute.Shared\\DTO\\RouteRequestDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAgAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-08T07:06:09.825Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IRouteService.cs",
+              "DocumentMoniker": "C:\\Users\\Humberto\\source\\repos\\ShortestRoute\\ShortestRoute.Domain\\Interfaces\\IRouteService.cs",
+              "RelativeDocumentMoniker": "ShortestRoute.Domain\\Interfaces\\IRouteService.cs",
+              "ToolTip": "C:\\Users\\Humberto\\source\\repos\\ShortestRoute\\ShortestRoute.Domain\\Interfaces\\IRouteService.cs",
+              "RelativeToolTip": "ShortestRoute.Domain\\Interfaces\\IRouteService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-08T00:55:07.966Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+[
+  {
+    "ContainingType": "ShortestRoute.Controllers.RouteController",
+    "Method": "ShortestRoute",
+    "RelativePath": "route",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "ShortestRoute.Shared.DTO.RouteRequestDTO",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]

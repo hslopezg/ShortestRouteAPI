@@ -1,0 +1,39 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "ShortestRoute.Domain/1.0.0": {
+        "dependencies": {
+          "ShortestRoute.Shared": "1.0.0"
+        },
+        "runtime": {
+          "ShortestRoute.Domain.dll": {}
+        }
+      },
+      "ShortestRoute.Shared/1.0.0": {
+        "runtime": {
+          "ShortestRoute.Shared.dll": {
+            "assemblyVersion": "1.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ShortestRoute.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "ShortestRoute.Shared/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

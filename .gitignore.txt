@@ -1,0 +1,29 @@
+# Archivos binarios y compilados
+bin/
+obj/
+*.exe
+*.dll
+*.pdb
+*.log
+*.vs/
+.vscode/
+
+# Dependencias de paquetes y configuraciones de usuario
+node_modules/
+.env
+*.user
+*.suo
+*.cache
+*.config
+*.db
+
+# Archivos de configuración de Visual Studio y Rider
+.idea/
+.vscode/
+*.csproj.user
+*.sln.dotSettings
+
+# Configuración local y logs
+appsettings.Development.json
+appsettings.Local.json
+logs/

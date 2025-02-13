@@ -1,0 +1,15 @@
+C:\Users\Humberto\source\repos\ShortestRoute\ShortestRoute.Domain\bin\Debug\net6.0\ShortestRoute.Domain.deps.json
+C:\Users\Humberto\source\repos\ShortestRoute\ShortestRoute.Domain\bin\Debug\net6.0\ShortestRoute.Domain.dll
+C:\Users\Humberto\source\repos\ShortestRoute\ShortestRoute.Domain\bin\Debug\net6.0\ShortestRoute.Domain.pdb
+C:\Users\Humberto\source\repos\ShortestRoute\ShortestRoute.Domain\bin\Debug\net6.0\ShortestRoute.Shared.dll
+C:\Users\Humberto\source\repos\ShortestRoute\ShortestRoute.Domain\bin\Debug\net6.0\ShortestRoute.Shared.pdb
+C:\Users\Humberto\source\repos\ShortestRoute\ShortestRoute.Domain\obj\Debug\net6.0\ShortestRoute.Domain.csproj.AssemblyReference.cache
+C:\Users\Humberto\source\repos\ShortestRoute\ShortestRoute.Domain\obj\Debug\net6.0\ShortestRoute.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Humberto\source\repos\ShortestRoute\ShortestRoute.Domain\obj\Debug\net6.0\ShortestRoute.Domain.AssemblyInfoInputs.cache
+C:\Users\Humberto\source\repos\ShortestRoute\ShortestRoute.Domain\obj\Debug\net6.0\ShortestRoute.Domain.AssemblyInfo.cs
+C:\Users\Humberto\source\repos\ShortestRoute\ShortestRoute.Domain\obj\Debug\net6.0\ShortestRoute.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Humberto\source\repos\ShortestRoute\ShortestRoute.Domain\obj\Debug\net6.0\Shortest.D359EC5C.Up2Date
+C:\Users\Humberto\source\repos\ShortestRoute\ShortestRoute.Domain\obj\Debug\net6.0\ShortestRoute.Domain.dll
+C:\Users\Humberto\source\repos\ShortestRoute\ShortestRoute.Domain\obj\Debug\net6.0\refint\ShortestRoute.Domain.dll
+C:\Users\Humberto\source\repos\ShortestRoute\ShortestRoute.Domain\obj\Debug\net6.0\ShortestRoute.Domain.pdb
+C:\Users\Humberto\source\repos\ShortestRoute\ShortestRoute.Domain\obj\Debug\net6.0\ref\ShortestRoute.Domain.dll

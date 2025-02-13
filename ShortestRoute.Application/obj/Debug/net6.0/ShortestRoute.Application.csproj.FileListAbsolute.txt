@@ -1,0 +1,17 @@
+C:\Users\Humberto\source\repos\ShortestRoute\ShortestRoute.Application\bin\Debug\net6.0\ShortestRoute.Application.deps.json
+C:\Users\Humberto\source\repos\ShortestRoute\ShortestRoute.Application\bin\Debug\net6.0\ShortestRoute.Application.dll
+C:\Users\Humberto\source\repos\ShortestRoute\ShortestRoute.Application\bin\Debug\net6.0\ShortestRoute.Application.pdb
+C:\Users\Humberto\source\repos\ShortestRoute\ShortestRoute.Application\bin\Debug\net6.0\ShortestRoute.Domain.dll
+C:\Users\Humberto\source\repos\ShortestRoute\ShortestRoute.Application\bin\Debug\net6.0\ShortestRoute.Shared.dll
+C:\Users\Humberto\source\repos\ShortestRoute\ShortestRoute.Application\bin\Debug\net6.0\ShortestRoute.Domain.pdb
+C:\Users\Humberto\source\repos\ShortestRoute\ShortestRoute.Application\bin\Debug\net6.0\ShortestRoute.Shared.pdb
+C:\Users\Humberto\source\repos\ShortestRoute\ShortestRoute.Application\obj\Debug\net6.0\ShortestRoute.Application.csproj.AssemblyReference.cache
+C:\Users\Humberto\source\repos\ShortestRoute\ShortestRoute.Application\obj\Debug\net6.0\ShortestRoute.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Humberto\source\repos\ShortestRoute\ShortestRoute.Application\obj\Debug\net6.0\ShortestRoute.Application.AssemblyInfoInputs.cache
+C:\Users\Humberto\source\repos\ShortestRoute\ShortestRoute.Application\obj\Debug\net6.0\ShortestRoute.Application.AssemblyInfo.cs
+C:\Users\Humberto\source\repos\ShortestRoute\ShortestRoute.Application\obj\Debug\net6.0\ShortestRoute.Application.csproj.CoreCompileInputs.cache
+C:\Users\Humberto\source\repos\ShortestRoute\ShortestRoute.Application\obj\Debug\net6.0\Shortest.86680066.Up2Date
+C:\Users\Humberto\source\repos\ShortestRoute\ShortestRoute.Application\obj\Debug\net6.0\ShortestRoute.Application.dll
+C:\Users\Humberto\source\repos\ShortestRoute\ShortestRoute.Application\obj\Debug\net6.0\refint\ShortestRoute.Application.dll
+C:\Users\Humberto\source\repos\ShortestRoute\ShortestRoute.Application\obj\Debug\net6.0\ShortestRoute.Application.pdb
+C:\Users\Humberto\source\repos\ShortestRoute\ShortestRoute.Application\obj\Debug\net6.0\ref\ShortestRoute.Application.dll

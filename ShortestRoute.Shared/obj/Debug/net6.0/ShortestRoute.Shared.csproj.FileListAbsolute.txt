@@ -1,0 +1,11 @@
+C:\Users\Humberto\source\repos\ShortestRoute\ShortestRoute.Shared\bin\Debug\net6.0\ShortestRoute.Shared.deps.json
+C:\Users\Humberto\source\repos\ShortestRoute\ShortestRoute.Shared\bin\Debug\net6.0\ShortestRoute.Shared.dll
+C:\Users\Humberto\source\repos\ShortestRoute\ShortestRoute.Shared\bin\Debug\net6.0\ShortestRoute.Shared.pdb
+C:\Users\Humberto\source\repos\ShortestRoute\ShortestRoute.Shared\obj\Debug\net6.0\ShortestRoute.Shared.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Humberto\source\repos\ShortestRoute\ShortestRoute.Shared\obj\Debug\net6.0\ShortestRoute.Shared.AssemblyInfoInputs.cache
+C:\Users\Humberto\source\repos\ShortestRoute\ShortestRoute.Shared\obj\Debug\net6.0\ShortestRoute.Shared.AssemblyInfo.cs
+C:\Users\Humberto\source\repos\ShortestRoute\ShortestRoute.Shared\obj\Debug\net6.0\ShortestRoute.Shared.csproj.CoreCompileInputs.cache
+C:\Users\Humberto\source\repos\ShortestRoute\ShortestRoute.Shared\obj\Debug\net6.0\ShortestRoute.Shared.dll
+C:\Users\Humberto\source\repos\ShortestRoute\ShortestRoute.Shared\obj\Debug\net6.0\refint\ShortestRoute.Shared.dll
+C:\Users\Humberto\source\repos\ShortestRoute\ShortestRoute.Shared\obj\Debug\net6.0\ShortestRoute.Shared.pdb
+C:\Users\Humberto\source\repos\ShortestRoute\ShortestRoute.Shared\obj\Debug\net6.0\ref\ShortestRoute.Shared.dll
